@@ -1,1 +1,0 @@
-Add-Computer -DomainName taskus.prv -Credential sk3088651.priv 
